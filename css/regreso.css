@@ -22,14 +22,14 @@ body {
 }
 
 .message h1 {
-    font-size: 2em;
+    font-size: 3em;
     color: #ff6f61;
     text-transform: uppercase;
     font-weight: bold;
 }
 
 .message p {
-    font-size: 1em;
+    font-size: 1.5em;
     color: #555;
     max-width: 700px;
     margin: 0 auto;
